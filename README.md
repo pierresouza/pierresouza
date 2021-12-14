@@ -1,7 +1,7 @@
-# Olá eu sou o pierre souza
- Em busca do máximo de conhecimento possível
+# <i>Olá eu sou o pierre souza</i>
+ <i>Em busca do máximo de conhecimento possível</i>
 
- Buscando a primeira oportunidade como Dev Front-End <br><br>
+ <i>Buscando a primeira oportunidade como Dev Front-End</i> <br><br>
   <img src="https://komarev.com/ghpvc/?username=pierresouza&color=green" alt="pierresouza"/>  
    
 <div align="center">
