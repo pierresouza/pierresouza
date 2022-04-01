@@ -1,7 +1,7 @@
 # <i>Olá eu sou o pierre souza</i>
  <i>Em busca do máximo de conhecimento possível </i>
 
- <i>Assistente de analista de sistemas Na Lion X</i> <br><br> 
+ <i>Assistente de analista de sistemas Na Lion X</i>
    
 <div align="center">
   <a href="https://github.com/pierresouza">
