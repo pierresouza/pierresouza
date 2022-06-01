@@ -1,7 +1,7 @@
 # <i>Olá eu sou o pierre souza</i>
  <i>Em busca do máximo de conhecimento possível </i>
 
- <i>Assistente de analista de sistemas Na Lion X - Front-End</i>
+ <i>Assistente de analista de sistemas Na Lion X - Dev Front-End </i>
    
 <div align="center">
   <a href="https://github.com/pierresouza">
@@ -16,7 +16,6 @@
    <img align="center" alt="pierre-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
      <img align="center" alt="pierre-MYSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="pierre-VSC" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
- 
   </div>
   <br>
   <a href = "mailto:herouserpierre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
