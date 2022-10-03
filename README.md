@@ -18,6 +18,7 @@
      <img align="center" alt="pierre-VSC" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   </div>
   <br>
+  <a href="http://api.whatsapp.com/send?phone=5511987299382&text=Olá,%20vim%20pelo%20GitHub,%20Tudo%20bem?" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:herouserpierre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=orange" target="_blank"></a>
   <a href="https://www.linkedin.com/in/pierre-souza-45420217b/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
