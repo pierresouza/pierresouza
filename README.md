@@ -7,16 +7,16 @@
   
   <br>
 
-- 🔭 I’m currently working on [React Hook Form](https://github.com/pierresouza/hookformTS)  
+- 🔭 I’m currently working on: [React Hook Form](https://github.com/pierresouza/hookformTS)  
   
 
-- 🌱 I’m currently learning javascript, ReactJs and ReactTS  
+- 🌱 I’m currently learning: javascript, ReactJs and ReactTS  
   
 
-- ❓ Ask me about anything about hardware and games   
+- ❓ Ask me about: anything about hardware and games   
   
 
-- ⚡ Fun fact: I learn about hardware first and two yers later discover the world of programming  
+- ⚡ Fun fact: I learn about hardware first and two years later discover the world of programming  
   
 
 <br/>  
