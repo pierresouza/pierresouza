@@ -74,7 +74,7 @@
 <br>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=pierresouza&showicons=true&countprivate=true&hide_border=true" align="center" /></div>  
 
 <div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pierresouza&hide_border=true&layout=compact" align="center"  width="500"/></div>  
 
