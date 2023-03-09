@@ -54,18 +54,6 @@
   
 </div>
 
-<br/>  
-<br>
-
-## Github Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=6&row=1&margin-w=10" align="center" />
-</div>
-
-<br>
-<br>
-
 ## Github Stats
 
 <div>
@@ -73,11 +61,18 @@
 ![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white)
 ![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=7&theme=white)
 
+## Github Trophies
+
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=6&row=1&margin-w=10)
 
 </div>
 <br>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=pierresouza&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly" align="center" /></div>
+
+<div align="center">
+
+![Github strokes](https://github-readme-streak-stats.herokuapp.com?user=pierresouza&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+
+</div>
 
 <br/>  
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
