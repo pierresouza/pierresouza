@@ -58,7 +58,7 @@
 
 <div>
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white&count_private=true)
 ![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=7&theme=white)
 
 ## Github Trophies
