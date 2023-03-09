@@ -70,7 +70,7 @@
 
 <div>
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white&include_all_commits=true)
 ![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=7&theme=white)
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=6&row=1&margin-w=10)
