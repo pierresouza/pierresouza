@@ -75,8 +75,9 @@
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=6&row=1&margin-w=10)
 
 </div>
-</div>
 <br>
+
+## Week Stats
 
 <div align="center">
 
