@@ -45,12 +45,12 @@
 <div align="center">
 
 <a href="https://linkedin.com/in/pierre-souza" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
-  <a href="mailto:herouserpierre@gmail.com" target="_blank">
+  <a href="mailto:herouserpierre@gmail.com" target="_blank" style="display:inline">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a> 
+</a>   
+ 
   
 </div>
 
@@ -59,12 +59,12 @@
 <div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white&count_private=true&include_all_commits=true)
+<img src="https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white&count_private=true&include_all_commits=true"/>
 
 </div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=465&PAT_1)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=465&PAT_1"/>
 
 </div>
 
