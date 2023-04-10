@@ -6,6 +6,8 @@
 
   <br>
 
+  [![](https://visitcount.itsvg.in/api?id=pierresouza&icon=1&color=3)](https://visitcount.itsvg.in)
+
 - 🔭 I’m currently working on: [React Hook Form](https://github.com/pierresouza/hookformTS)
 
 - 🌱 I’m currently learning: javascript, ReactJs and ReactTS
@@ -88,4 +90,11 @@
 </div>
 
 <br/>  
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
+## Top Contributed Repo
+<div align="center">
+
+![](https://github-contributor-stats.vercel.app/api?username=pierresouza&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+</div>
+
