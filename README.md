@@ -59,12 +59,12 @@
 <div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white&count_private=true)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=white&count_private=true&include_all_commits=true)
 
 </div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=465)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=465&PAT_1)
 
 </div>
 
