@@ -66,7 +66,7 @@
 </div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=465&PAT_1)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=450&PAT_1)
 
 
 
