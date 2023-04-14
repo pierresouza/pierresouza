@@ -61,7 +61,7 @@
 <div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true)
 
 </div>
 <div align="center">
