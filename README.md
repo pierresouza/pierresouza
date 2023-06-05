@@ -89,7 +89,7 @@
 
 <div align="center">
 
-![Github Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=6&row=1&margin-w=10)
+![Github Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=3&row=2&margin-w=30&margin-h=20)
 
 </div>
 <br>
