@@ -8,7 +8,7 @@
 
   [![](https://visitcount.itsvg.in/api?id=pierresouza&icon=1&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on: [React Hook Form](https://github.com/pierresouza/hookformTS)
+- 🔭 I’m currently working on: [React Typescript]([https://github.com/pierresouza/hookformTS](https://www.typescriptlang.org/))
 
 - 🌱 I’m currently learning: javascript, ReactJs and ReactTS
 
