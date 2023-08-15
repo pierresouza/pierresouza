@@ -28,7 +28,7 @@
   <table border="0" align="center">
   <tr>
   <td align="center">
-    <table border="1">
+    <table border="0">
       <tr>
        <td>
         <div align="center">  
