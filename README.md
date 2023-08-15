@@ -25,7 +25,7 @@
     <td valign="top" width=100%>
 
 ## Frontend
-<table border=0 align="center" width=500>
+<table border="0" align="center" width=500>
 <tr>
 <td align="center">
 
