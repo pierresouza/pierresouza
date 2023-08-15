@@ -20,9 +20,9 @@
 
 ## My Skill Set
 
-<table align="center" border=1>
+<table align="center" border=1 width="100%">
   <tr>
-    <td valign="top" width="33%">
+    <td valign="top" >
 
 
 ## Frontend
