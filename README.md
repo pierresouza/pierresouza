@@ -25,12 +25,20 @@
     <td valign="top" width=100%>
 
 ## Frontend
-<table border="0" align="center" width=500>
-<tr>
-<td align="center">
+<div style="display:flex;">
 
-### experience
-  <table border="1">
+<table border="0">
+<tr>
+<td valign="middle">
+</td>
+</tr>
+</table>
+  <table border="1" cellpadding="0" cellspacing="0">
+  <tr>
+  <td>
+  <h3 style="border-bottom:0px;">Experience</h3>
+  </td>
+  </tr>
     <tr>
      <td>
       <div align="center">  
@@ -40,13 +48,12 @@
      </td>
     </tr>
   </table>
-</td>
-<td width="20">&nbsp;</td>
-<td align=center>
-
-  ### Studying
-
   <table border="1">
+  <tr>
+  <td>
+  <h3 style="border-bottom:0px;">Studying</h3>
+  </td>
+  </tr>
     <tr>
     <td>
       <div align="center">
@@ -57,10 +64,9 @@
     </td>
     </tr>
   </table>
-  </td>
-</tr>
-</table>
 
+
+</div>
 <br/>
 
 ## Connect with me
