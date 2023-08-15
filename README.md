@@ -20,18 +20,29 @@
 
 ## My Skill Set
 
-<table align="center"><tr><td valign="top" width="33%">
+<table align="center" border=1>
+  <tr>
+    <td valign="top" width="33%">
 
-### Frontend
+
+## Frontend
+### experience
 
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+</div>
+
+### Studying
+
+<div align="center">
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
 </div>
-</td></tr></table>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -59,7 +70,7 @@
 </div>
 <div align="center">
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=450&PAT_1)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=460&PAT_1)
 
 
 
@@ -72,7 +83,7 @@
 
 <div align="center">
 
-![Github strokes](https://github-readme-streak-stats.herokuapp.com?user=pierresouza&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly)
+![Github strokes](https://github-readme-streak-stats.herokuapp.com?user=pierresouza&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=460)
 
 </div>
 
