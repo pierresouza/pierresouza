@@ -23,8 +23,6 @@
 <table align="center" border="0" width="100%">
   <tr>
     <td valign="top" width=100%>
-
-  ## Frontend
   <table border="0" align="center">
   <tr>
   <td align="center">
