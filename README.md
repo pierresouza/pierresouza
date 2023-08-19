@@ -20,12 +20,12 @@
 
 ## My Skill Set
 
-<table align="center" border=1 width="100%">
+<table align="center" border="0" width="100%">
   <tr>
     <td valign="top" width=100%>
 
   ## Frontend
-  <table border="1" align="center">
+  <table border="0" align="center">
   <tr>
   <td align="center">
   <div align="center">  
@@ -96,6 +96,14 @@
 <div align="center">
 
 ![Github Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=3&row=2&margin-w=30&margin-h=20)
+
+</div>
+
+<div>
+
+## Github Stats
+
+![Github Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
 
 </div>
 <br>
