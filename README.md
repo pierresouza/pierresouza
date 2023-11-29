@@ -61,17 +61,17 @@
 ## Github Stats
 
 <div>
-<div align="center">
+<div align="center" style="display: flex; gap:8px">
+<div>
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true_PAT1)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true)
 
 </div>
-<div align="center">
+<div>
 
-![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=460&PAT_1)
+![Status Pierre Souza](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_height=100)
 
-
-
+</div>
 </div>
 
 
