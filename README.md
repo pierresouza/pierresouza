@@ -103,8 +103,6 @@
 ## GitHub Stats
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
-
-</div>
 <br>
 
  <picture>
@@ -112,3 +110,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pierre Souza/Pierre Souza/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pierre Souza/Pierre Souza/output/github-contribution-grid-snake.svg">
 </picture>
+
+</div>
+<br>
