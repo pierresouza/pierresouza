@@ -94,9 +94,9 @@
 
 </div>
 
-<div>
-
 ## GitHub Stats
+<div align="center">
+
 
 ![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
 <br>
