@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=pierresouza&icon=1&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on: [DescoInvest](https://github.com/DescoInvest)
+- 🔭 I’m currently working on: [Bichinhos da TI](https://www.linkedin.com/company/bichinhosdati/)
 
 - 🌱 I’m currently learning: JavaScript, ReactJS, and ReactTS
 
