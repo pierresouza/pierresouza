@@ -1,4 +1,6 @@
-## <div align="center" style="font-weight:bold;">Hello, I'm Pierre Souza, a Front-End Developer 👨‍💻 working with ReactJS and ReactTS </div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffff&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&pause=1000&color=FFF&vCenter=true&random=false&width=435&lines=HELLO%2C+WORLD!++%3D%5D)](https://git.io/typing-svg)
 
 <br>
 
@@ -108,3 +110,5 @@
 ![image](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 </div>
 <br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=150&section=footer"/>
