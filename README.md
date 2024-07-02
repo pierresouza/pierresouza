@@ -100,7 +100,7 @@
 
 <div>
 
-![image](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/pierresouza/pierresouza/output/snake.svg" alt="Snake animation" />
 
 </div>
 <br>
