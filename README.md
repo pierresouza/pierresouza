@@ -59,7 +59,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=10&theme=white&card_width=460)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=donut&langs_count=20&theme=white&card_width=460)
+
+</div>
+
+<div align="center">
+
+[![pierresouza WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierresouza)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
@@ -92,17 +98,25 @@
 ## GitHub Stats
 
 <div align="center">
+## Week Stats
 
-![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
-<br>
-
-</div>
-
-<div>
-
-![image](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pierresouza&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=460)
 
 </div>
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=150&section=footer"/>
+## Top Contributed Repo
+
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pierresouza&limit=5&theme=flat&combine_all_yearly_contributions=true)
+## GitHub Trophies
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=4&row=3&margin-w=30&margin-h=20)
+
+## GitHub Profile Summary
+
+![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
+
+![Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=FFF&height=150&section=footer)
+
