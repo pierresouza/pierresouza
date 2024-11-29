@@ -53,19 +53,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag&)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=donut&langs_count=20&theme=white&card_width=460)
-
-</div>
-
-<div align="center">
-
-[![pierresouza WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pierresouza)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=15&theme=white&card_width=460)
 
 </div>
 
