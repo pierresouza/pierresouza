@@ -36,7 +36,7 @@
 
 <br/>
 
-## Connect with me
+## Find Me on:
 
 <div align="center">
 
@@ -53,13 +53,13 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag&)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=cityLight&locale=pt-br&include_all_commits=true&count_private=true&number_format=long&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentag)
 
 </div>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=15&theme=white&card_width=460)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=15&theme=white&card_width=470)
 
 </div>
 
@@ -85,30 +85,25 @@
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=5&row=3&margin-w=30&margin-h=20)
-
-</div>
-
-## GitHub Stats
-
-<div align="center">
-## Week Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pierresouza&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=460)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=5&row=3&margin-w=10&margin-h=20)
 
 </div>
 <br>
 
 ## Top Contributed Repo
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pierresouza&limit=5&theme=flat&combine_all_yearly_contributions=true)
-## GitHub Trophies
+<div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=4&row=3&margin-w=30&margin-h=20)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pierresouza&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
+</div>
 
 ## GitHub Profile Summary
 
+<div align="center">
+
 ![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
+</div>
 
 ![Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
 
