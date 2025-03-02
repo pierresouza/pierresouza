@@ -59,7 +59,7 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=20&theme=white&card_width=470)
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&layout=compact&langs_count=30&theme=white&card_width=470)
 
 </div>
 
