@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning: JavaScript, ReactJS, and ReactTS
 - ❓ Ask me about: Anything related to hardware and games
 - ⚡ Fun fact: I initially learned about hardware and discovered the world of programming two years later.
-- 🌐 <a href="https://www.pierrsouza.software" target="_blank">My Portifolio</a>
+- 🌐 <a href="https://www.pierresouza.software" target="_blank">My Portifolio</a>
 
 ## My Skill Set
 
