@@ -8,32 +8,23 @@
 - 🌱 I’m currently learning: JavaScript, ReactJS, and ReactTS
 - ❓ Ask me about: Anything related to hardware and games
 - ⚡ Fun fact: I initially learned about hardware and discovered the world of programming two years later.
-- 🌐 <a href="https://www.pierresouza.software" target="_blank">My Portifolio</a>
+- 🌐 Portfólio: [pierresouza.software](https://www.pierresouza.software)
 
 ## My Skill Set
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td  width=100%>
-      <table border="0" cellpadding="0" cellspacing="0" align="center">
-        <tr>
-
 ### Front-End
 
-  <td align="center">
-      <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
+<div align="center">
+ <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
       <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
       <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>
       <a href="https://sass-lang.com/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
       <a href="https://styled-components.com/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>
-      <!-- <a href="https://www.javascript.com/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+      <a href="https://www.javascript.com/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
       <a href="https://reactjs.org/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>
-      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a> -->
-  </td>
-  </tr>
-  </table>
-
-<br/>
+      <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
+      <a href="https://nextjs.org/" target="_blank"><img style="margin: 0px 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+</div>
 
 ## Find Me on:
 
