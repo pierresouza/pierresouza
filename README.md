@@ -4,7 +4,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=pierresouza&icon=1&color=3)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on: [Zanthus - Tecnologia de Resultados](<[https://www.linkedin.com/company/bichinhosdati/](https://www.linkedin.com/company/zanthustecnologia/posts/?feedView=all)>)
+- 🔭 I’m currently working on: [Baloon consultoria de marketing](<[https://www.linkedin.com/company/baloon-consultoria-de-marketing/posts/?feedView=all]>)
 - 🌱 I’m currently learning: JavaScript, ReactJS, and ReactTS
 - ❓ Ask me about: Anything related to hardware and games
 - ⚡ Fun fact: I initially learned about hardware and discovered the world of programming two years later.
