@@ -28,7 +28,7 @@
 
 ## Find Me on:
 
-<div align="center">
+<div align="center" style="">
 
 <a href="https://linkedin.com/in/pierre-souza" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"  />
@@ -72,11 +72,8 @@
 </div>
 
 ## GitHub Trophies
-
 <div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pierresouza&theme=white&column=5&row=3&margin-w=10&margin-h=20)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=pierresouza&show_icons=true&theme=radical" />
 </div>
 <br>
 
@@ -91,11 +88,16 @@
 ## GitHub Profile Summary
 
 <div align="center">
+ 
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pierresouza&theme=github-dark"/>
 
-![GitHub Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pierresouza&theme=2077)
 
 </div>
 
-![Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+<div align="center">
 
-![Footer Image](https://capsule-render.vercel.app/api?type=waving&color=FFF&height=150&section=footer)
+![Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+ 
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFF&height=150&section=footer"/>
