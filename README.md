@@ -48,7 +48,7 @@
 <br>
 
 <div align="center">
-  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&langs_count=20&theme=radical&layout=compact"/>
+  <img height="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pierresouza&langs_count=10&theme=radical&layout=compact"/>
 </div>
 
 ## Week Stats
